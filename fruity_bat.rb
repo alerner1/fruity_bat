@@ -1,4 +1,5 @@
 # TODO: figure out how gemfiles work and get defstruct in there
+# up to 18:11 here: https://www.youtube.com/watch?v=QtIlyU2Br3o
 
 require 'gosu'
 
